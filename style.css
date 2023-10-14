@@ -103,7 +103,7 @@
     flex-wrap: wrap;
 }
 .grocery {
-    background-image: url(/images/gro-removebg-preview.jpg);
+    background-image: url(images/gro-removebg-preview.jpg);
     background-size:cover;
     background-repeat: no-repeat;
     border: 1px solid black;
@@ -112,7 +112,7 @@
     border-radius: 100%;
 }
 .electronics{
-    background-image: url(/images/elect-removebg-preview.jpg);
+    background-image: url(images/elect-removebg-preview.jpg);
     background-size:cover;
     background-repeat: no-repeat;
     border: 1px solid black;
@@ -121,7 +121,7 @@
     border-radius: 100%;
 }
 .men-fashion{
-    background-image: url(/images/men.jpg);
+    background-image: url(images/men.jpg);
     background-size:cover;
     background-repeat: no-repeat;
     border: 1px solid black;
@@ -130,7 +130,7 @@
     border-radius: 100%;
 }
 .women-fashion{
-    background-image: url(/images/women.jpg);
+    background-image: url(images/women.jpg);
     background-size:cover;
     background-repeat: no-repeat;
     border: 1px solid black;
@@ -139,7 +139,7 @@
     border-radius: 100%;
 }
 .beauty{
-    background-image: url(/images/beauty.jpg);
+    background-image: url(images/beauty.jpg);
     background-size:cover;
     background-repeat: no-repeat;
     border: 1px solid black;
@@ -148,7 +148,7 @@
     border-radius: 100%;
 }
 .mobiles{
-    background-image: url(/images/mobiles.jpg);
+    background-image: url(images/mobiles.jpg);
     background-size:cover;
     background-repeat: no-repeat;
     border: 1px solid black;
